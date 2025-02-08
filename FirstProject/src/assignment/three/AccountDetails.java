@@ -29,7 +29,7 @@ public class AccountDetails {
 		int d=sc.nextInt();
 		System.out.println("The amount "+ d +" has been deposited in your account");
 		b=balanceamount+d;
-		System.out.println("Available Balance: "+ b);
+		System.out.println("Available Balance is: "+ b);
 
 		
 	}

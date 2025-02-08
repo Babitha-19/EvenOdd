@@ -7,7 +7,7 @@ public class NameAge {
 
 			public static void main(String[] args) {
 
-			details("Diya", 11);
+			details("Abhi", 8);
 			display();
 
 			}
